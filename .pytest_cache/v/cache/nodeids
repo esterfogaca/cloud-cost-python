@@ -1,0 +1,6 @@
+[
+  "test_submit.py::CloudCostTests::test_app_execution",
+  "test_submit.py::CloudCostTests::test_lambda_execution",
+  "test_submit.py::CloudCostTests::test_month",
+  "test_submit.py::CloudCostTests::test_year"
+]
